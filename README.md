@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋 my name is Etido Ema
+ ### 🔭 I’m a Data Analyst
+  🌱 I’m currently learning Google business intellignece
+ 
 
 <!--
 **etidoema/etidoema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
