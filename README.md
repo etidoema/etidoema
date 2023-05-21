@@ -1,4 +1,7 @@
 # Hi there 👋 my name is Etido Ema
+https://twitter.com/etidoema
+
+
  ### 🔭 I’m a Data Analyst
   🌱 I’m currently learning Google business intellignece
  
