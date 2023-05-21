@@ -1,11 +1,12 @@
 # Hi there 👋 my name is Etido Ema
-https://twitter.com/etidoema
+  Follow me here https://twitter.com/etidoema🦅🦅🦅🦅
 
 
- ### 🔭 I’m a Data Analyst
-  🌱 I’m currently learning Google business intellignece
- 
-
+ ### 🔭 I’m a Data analyst
+ - 🌱 I’m currently learning Google business intellignece, SQL Server Development and Microsoft Azure data fundamentals.
+ - 👯 I’m looking to collaborate  with other data enthusiast to organize or be part of awesome events in the space.
+ - 🦑 2023 Goals: Improve my  technical skills and get a better offer.
+ - ⚡ Fun fact: Manchester United is the best club in the world😁😁
 <!--
 **etidoema/etidoema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
