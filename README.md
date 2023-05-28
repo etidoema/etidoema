@@ -1,5 +1,5 @@
 # Hi there 👋 my name is Etido Ema
-  Follow me here https://twitter.com/etidoema🦅🦅🦅🦅
+  Follow me on [✨Twitter]( https://twitter.com/etidoema). 
 
 
  ### 🔭 I’m a Data analyst
