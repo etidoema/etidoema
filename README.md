@@ -4,7 +4,7 @@
 
  ### 🔭 I’m a Data analyst
  - 🌱 I’m currently learning Google business intellignece, SQL Server Development and Microsoft Azure data fundamentals.
- - 👯 I’m looking to collaborate  with other data enthusiast to organize or be part of awesome events in the space.
+ - 👯 I’m looking to collaborate  with other data analyst to organize or be part of awesome events in the space.
  - 🦑 2023 Goals: Improve my  technical skills and get a better offer.
  - ⚡ Fun fact: Manchester United is the best club in the world😁😁
 <!--
