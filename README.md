@@ -7,7 +7,7 @@
  - 👯 I’m looking to get an opportunity into an organisation that loves to work with data.
  - 🦑 2023 Goals: Improve my  technical skills and get a better offer.
  - ⚡ Fun fact: Be the best version of yourself everyday😁😁
- - - 📫 How to reach me: +2349060250454 or emaetido@gmail.com
+ - 📫 How to reach me: +2349060250454 or emaetido@gmail.com
 <!--
 **etidoema/etidoema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
