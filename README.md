@@ -2,7 +2,7 @@
   Follow me on [:ghost: Twitter]( https://twitter.com/etidoema). 
 
 
- ### 🔭 I’m a Data analyst and 
+ ### 🔭 I’m a Data analyst
  - 🌱 I’m currently learning Data Engineering and Advance Data analysis.
  - 👯 I’m looking to get an opportunity into an organisation that loves to work with data.
  - 🦑 2023 Goals: Improve my  technical skills and get a better offer.
