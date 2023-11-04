@@ -3,7 +3,7 @@
 
 
  ### 🔭 I’m a Data analyst and 
- - 🌱 I’m currently learning Data Engineering and Advance Data analysis Microsoft.
+ - 🌱 I’m currently learning Data Engineering and Advance Data analysis.
  - 👯 I’m looking to get an opportunity into an organisation that loves to work with data.
  - 🦑 2023 Goals: Improve my  technical skills and get a better offer.
  - ⚡ Fun fact: Be the best version of yourself everyday😁😁
