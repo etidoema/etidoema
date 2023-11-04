@@ -2,11 +2,12 @@
   Follow me on [:ghost: Twitter]( https://twitter.com/etidoema). 
 
 
- ### 🔭 I’m a Data analyst
- - 🌱 I’m currently learning Google business intellignece, SQL Server Development and Microsoft Azure data fundamentals.
- - 👯 I’m looking to collaborate  with other data analyst to organize or be part of awesome events in the space.
+ ### 🔭 I’m a Data analyst and 
+ - 🌱 I’m currently learning Data Engineering and Advance Data analysis Microsoft.
+ - 👯 I’m looking to get an opportunity into an organisation that loves to work with data.
  - 🦑 2023 Goals: Improve my  technical skills and get a better offer.
- - ⚡ Fun fact: Manchester United is the best club in the world😁😁
+ - ⚡ Fun fact: Be the best version of yourself everyday😁😁
+ - - 📫 How to reach me: +2349060250454 or emaetido@gmail.com
 <!--
 **etidoema/etidoema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
