@@ -5,7 +5,7 @@
  ### 🔭 I’m a Certified Data analyst
  - 🌱 I’m currently learning Data Engineering and Advance Data analysis.
  - ⚡ Skills : Python/SQL/Dax/Power Bi
- - 👯 I’m looking to collaboarate on Data analytics and engineering projects.
+ - 👯 I’m looking to collaboarate on data analytics and data engineering projects.
  - 🦑 2023 Goals: Improve my  technical skills and get a better offer.
  - ⚡ Fun fact: Be the best version of yourself everyday😁😁
  - 📫 How to reach me: +2349060250454 or emaetido@gmail.com
