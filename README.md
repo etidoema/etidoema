@@ -3,11 +3,11 @@
 
 
  ### 🔭 I’m a Certified Data analyst
- - 🌱 I’m your data guy, who can transform, process, analyse and visulize data.
+ - 🌱 I’m your data guy, who can transform, process, analyse and visualize data.
  - ⚡ Skills : Python || SQL || Dax || Power Bi
  - 👯 I’m looking to collaboarate on data analytics and data engineering projects.
  - 🦑 2023 Goals: Get better.
- - ⚡ Fun fact: Be the best version of yourself everyday😁😁
+ - ⚡ Fact: God is the greatest
  - 📫 How to reach me: +2349060250454 or emaetido@gmail.com
 <!--
 **etidoema/etidoema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
