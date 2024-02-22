@@ -6,7 +6,7 @@
  - 🌱 I’m your data guy, who can transform, process, analyse and visualize data.
  - ⚡ Skills : Python || SQL || Dax || Power Bi
  - 👯 I’m looking to collaboarate on data analytics and data engineering projects.
- - 🦑 2023 Goals: Get better.
+ - 🦑 2024 Goals: Make a difference.
  - ⚡ Fact: God is the greatest
  - 📫 How to reach me: +2349060250454 or emaetido@gmail.com
 <!--
