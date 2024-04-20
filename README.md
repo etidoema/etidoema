@@ -3,8 +3,8 @@
 
 
  ### 🔭 I’m a Certified Data analyst
- - 🌱 I’m your data guy, who can transform, process, analyse and visualize data.
- - ⚡ Skills : Python || SQL || Dax || Power Bi
+ - 🌱 I Extract, transform & load Data
+ - ⚡ Skills : Python || SQL || Mage || Docker || Terraform || dbt || Big Query || Power Bi || looker studio
  - 👯 I’m looking to collaboarate on data analytics and data engineering projects.
  - 🦑 2024 Goals: Make a difference.
  - ⚡ Fact: God is the greatest
