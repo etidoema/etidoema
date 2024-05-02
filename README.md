@@ -2,7 +2,7 @@
   Follow me on [:ghost: Twitter]( https://twitter.com/etidoema). 
 
 
- ### 🔭 I’m a Certified Data analyst
+ ### 🔭 I’m a Certified Data Engineer
  - 🌱 I Extract, transform & load Data
  - ⚡ Skills : Python || SQL || Mage || Docker || Terraform || dbt || Big Query || Power Bi || looker studio
  - 👯 I’m looking to collaboarate on data analytics and data engineering projects.
